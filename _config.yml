@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinfeng Li"
+title                    : "LetterLi"
 description              : "Ph.D. candidate in USSLAB. Focusing on Sensing and CPS Security, Audio Security."
 repository               : "LetterLiGo/LetterLiGo.github.io"
 google_scholar_stats_use_cdn : true

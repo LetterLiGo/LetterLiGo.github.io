@@ -27,7 +27,7 @@ I have published 10+ papers at the top-tier international security/AI/mobile sen
 
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉 VRifle (the 1st completely inaudible adversarial perturbation attacks) is accepted by NDSS 2024.
+- *2023.08*: &nbsp;🎉 VRifle (the 1st completely ultrasonic adversarial perturbation attack) is accepted by NDSS 2024.
 - *2023.08*: &nbsp;🔥 I attend USENIX Security 2023 Symposium and present our work NormDetect in person. Cool! Nice to meet so many rising stars in CA, USA.
 - *2023.07*: &nbsp;😄 Our practical backdoor attack (SMA) against ASR models is accepted by ACM MM 2023!
 - *2022.09*: &nbsp;🎉 UltraBD is accepted by ICPADS 2022!
