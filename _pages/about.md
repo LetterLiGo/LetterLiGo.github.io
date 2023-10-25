@@ -27,6 +27,7 @@ I have published 10+ papers at the top-tier international security/AI/mobile sen
 
 
 # 🔥 News
+- *2023.09*: &nbsp;🍀 One LLM-oriented paper submitted to NSDI 2024 (CCF-A, one of the best conference on network and system related topics).
 - *2023.08*: &nbsp;🎉 VRifle (the 1st completely ultrasonic adversarial perturbation attack) is accepted by NDSS 2024.
 - *2023.08*: &nbsp;🔥 I attend USENIX Security 2023 Symposium and present our work NormDetect in person. Cool! Nice to meet so many rising stars in CA, USA.
 - *2023.07*: &nbsp;😄 Our practical backdoor attack (SMA) against ASR models is accepted by ACM MM 2023!
@@ -72,12 +73,17 @@ In Proceedings of 32nd **USENIX Security 2023** (CCF-A, Big4)
 - [Learning Normality is Enough: A Software-based Mitigation against the Inaudible Voice Attacks](https://www.usenix.org/conference/usenixsecurity23/presentation/li-xinfeng), **Xinfeng Li**, Xiaoyu Ji, Chen Yan, Chaohao Li, Yichen Li, Zhenning Zhang, Wenyuan Xu.,
 In Proceedings of 32nd **USENIX Security 2023** (CCF-A, Big4)
 
+- [A Software-based Mitigation against Inaudible Voice Attacks with Channel Awareness and Normality Guidance](), **Xinfeng Li**, Chen Yan, Xiaoyu Ji, Wenyuan Xu. Transcations on Dependable and Secure Computing (CCF-A, TDSC) (in submission)
+
 - [UltraBD: Backdoor Attack against Automatic Speaker Verification Systems via Adversarial Ultrasound](), **Junning Ze**, **Xinfeng Li**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu., In the proceedings of 2022 IEEE 28th International Conference on Parallel and Distributed Systems **ICPADS 2022** (CCF-C)
 
 - [”OK, Siri” or ”Hey, Google”: Evaluating Voiceprint Distinctiveness via Content-based PROLE Score](), Ruiwen He, Xiaoyu Ji, **Xinfeng Li**, Yushi Cheng, Wenyuan Xu., In Proceedings of 31st **USENIX Security 2022** (CCF-A, Big4)
 
 - [EarArray: Defending against DolphinAttack via Acoustic Attenuation](), Guoming Zhang, Xiaoyu Ji, **Xinfeng Li**, Gang Qu, Wenyuan Xu., In Proceedings of Network and Distributed System Security Symposium, **NDSS 2021** (CCF-A, Big4)
 
+- [Detecting Inaudible Voice Commands via Acoustic Attenuation by Multi-channel Microphones](), Guoming Zhang, Xiaoyu Ji, **Xinfeng Li**, Gang Qu, Xiuzhen Cheng, Wenyuan Xu. Transcations on Dependable and Secure Computing (CCF-A, TDSC)
+
+- [Scoring Metrics of Assessing Voiceprint Distinctiveness based on Speech Content and Rate](), Ruiwen He, Yushi Cheng, Junning Ze, **Xinfeng Li**, Xiaoyu Ji, Wenyuan Xu. Transcations on Dependable and Secure Computing (CCF-A, TDSC)
 
 
 
