@@ -73,7 +73,7 @@ In Proceedings of 32nd **USENIX Security 2023** (CCF-A, Big4)
 - [Learning Normality is Enough: A Software-based Mitigation against the Inaudible Voice Attacks](https://www.usenix.org/conference/usenixsecurity23/presentation/li-xinfeng), **Xinfeng Li**, Xiaoyu Ji, Chen Yan, Chaohao Li, Yichen Li, Zhenning Zhang, Wenyuan Xu.,
 In Proceedings of 32nd **USENIX Security 2023** (CCF-A, Big4)
 
-- [A Software-based Mitigation against Inaudible Voice Attacks with Channel Awareness and Normality Guidance](), **Xinfeng Li**, Chen Yan, Xiaoyu Ji, Wenyuan Xu. Transcations on Dependable and Secure Computing (CCF-A, TDSC) (in submission)
+- [A Software-based Mitigation against Inaudible Voice Attacks with Channel Awareness and Normality Guidance](), **Xinfeng Li**, Chen Yan, Xiaoyu Ji, Wenyuan Xu. Transcations on Dependable and Secure Computing, **TDSC** (CCF-A, in submission)
 
 - [UltraBD: Backdoor Attack against Automatic Speaker Verification Systems via Adversarial Ultrasound](), **Junning Ze**, **Xinfeng Li**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu., In the proceedings of 2022 IEEE 28th International Conference on Parallel and Distributed Systems **ICPADS 2022** (CCF-C)
 
@@ -81,9 +81,9 @@ In Proceedings of 32nd **USENIX Security 2023** (CCF-A, Big4)
 
 - [EarArray: Defending against DolphinAttack via Acoustic Attenuation](), Guoming Zhang, Xiaoyu Ji, **Xinfeng Li**, Gang Qu, Wenyuan Xu., In Proceedings of Network and Distributed System Security Symposium, **NDSS 2021** (CCF-A, Big4)
 
-- [Detecting Inaudible Voice Commands via Acoustic Attenuation by Multi-channel Microphones](), Guoming Zhang, Xiaoyu Ji, **Xinfeng Li**, Gang Qu, Xiuzhen Cheng, Wenyuan Xu. Transcations on Dependable and Secure Computing (CCF-A, TDSC)
+- [Detecting Inaudible Voice Commands via Acoustic Attenuation by Multi-channel Microphones](), Guoming Zhang, Xiaoyu Ji, **Xinfeng Li**, Gang Qu, Xiuzhen Cheng, Wenyuan Xu. Transcations on Dependable and Secure Computing, **TDSC** (CCF-A)
 
-- [Scoring Metrics of Assessing Voiceprint Distinctiveness based on Speech Content and Rate](), Ruiwen He, Yushi Cheng, Junning Ze, **Xinfeng Li**, Xiaoyu Ji, Wenyuan Xu. Transcations on Dependable and Secure Computing (CCF-A, TDSC)
+- [Scoring Metrics of Assessing Voiceprint Distinctiveness based on Speech Content and Rate](), Ruiwen He, Yushi Cheng, Junning Ze, **Xinfeng Li**, Xiaoyu Ji, Wenyuan Xu. Transcations on Dependable and Secure Computing, **TDSC** (CCF-A)
 
 
 
