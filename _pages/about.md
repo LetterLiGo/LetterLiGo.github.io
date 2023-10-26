@@ -19,7 +19,10 @@ redirect_from:
 
 I am currently a fifth-year Ph.D. candidate at Ubiqutous System Security Lab (USSLAB), Zhejiang University. I am fortunately supervised by <a href='https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works&sortby=pubdate'>Prof. Wenyuan Xu</a>, <a href="https://sites.google.com/site/xiaoyuijh">Prof. Xiaoyu Ji</a>, and <a href="https://cyansec.com/">Prof. Chen Yan</a>.
 
-My research interest covers a wide range, including Sensor and CPS Security, Audio Security, AI Security, as well as Speech Signal Processing. If you are seeking any form of <b>academic cooperation</b>, please feel free to email me at lxfmakeit(at)zju(dot)edu(dot)cn.
+<!-- My research interest covers a wide range, including Sensor and CPS Security, Audio Security, AI Security, as well as Speech Signal Processing. If you are seeking any form of <b>academic cooperation</b>, please feel free to email me at lxfmakeit(at)zju(dot)edu(dot)cn. -->
+My research is broadly in the field of AI and CPS security, with a particular interest in safeguarding user privacy, intelligent audio/vision systems, and generative models against various forms of leaks and attacks. I work toward developing dependable and secure machine learning (ML) systems, and commit- ted to making their applications for deployment in critical infrastructures and consumer electronics. In user-oriented contexts, my investigations also encompass the interplay between protecting user privacy and enhancing the usability of machine learning systems. In model-oriented scenarios, such as the use of generative models in model-as-a-service (MaaS) applications, my work involves regulating their behavior to align with societal responsibility.
+
+If you are seeking any form of <b>academic cooperation</b>, please feel free to email me at lxfmakeit(at)zju(dot)edu(dot)cn.
 
 I have published 10+ papers at the top-tier international security/AI/mobile sensing conferences and journals, such as USENIX Security, NDSS, TDSC, IoT-J, and ACM MM.
 
