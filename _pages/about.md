@@ -65,6 +65,7 @@ In Proceedings of 32nd **USENIX Security 2023** (CCF-A, Big4)
 - Universal detection performance demonstrated on a wide range of devices.
 </div>
 </div>
+- [CommandSense: Automating Shell Log Auditing with Proprietary Command Explanation System](), USENIX Symposium on Networked Systems Design and Implementation, **NSDI** (CCF-A, Top Network Conf., in submission)
 
 - [Inaudible Adversarial Perturbation: Manipulating the Recognition of User Speech in Real Time](https://arxiv.org/abs/2308.01040), **Xinfeng Li**, Chen Yan, Xuancun Lu, Xiaoyu Ji, Wenyuan Xu., In Proceedings of Network and Distributed System Security Symposium, **NDSS 2024** (CCF-A, Big4)
 
