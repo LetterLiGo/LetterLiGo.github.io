@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year Ph.D. candidate at Ubiqutous System Security Lab (USSLAB), Zhejiang University. I am fortunately supervised by <a href='https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works&sortby=pubdate'>Prof. Wenyuan Xu</a>, <a href="https://sites.google.com/site/xiaoyuijh">Prof. Xiaoyu Ji</a>, and <a href="https://cyansec.com/">Prof. Chen Yan</a>. <a href='../docs/Xinfeng_Li_CV.pdf'>My Resume</a>
+I am currently a final-year Ph.D. candidate at Ubiqutous System Security Lab (USSLAB), Zhejiang University. I am fortunately supervised by <a href='https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works&sortby=pubdate'>Prof. Wenyuan Xu</a>, <a href="https://sites.google.com/site/xiaoyuijh">Prof. Xiaoyu Ji</a>, and <a href="https://cyansec.com/">Prof. Chen Yan</a>.
+ <!-- <a href='../docs/Xinfeng_Li_CV.pdf'>My Resume</a> -->
 
 **I am expected to graduate in June 2024 and I'm on the job market (acadamia/industry). Consider dropping me an email if you have any suitable opportunities.**
 
