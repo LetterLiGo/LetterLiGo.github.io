@@ -35,6 +35,8 @@ I have published 10+ papers at the top-tier international security/AI/mobile sen
 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉 I am so excited to be awarded the NDSS 2024 Student Travel Grant.
+- *2023.12*: &nbsp;🔥 One Vision-Language Model Security paper submitted to S&P (Oakland) 2024 (Core A*, Big4, CCF-A).
 - *2023.09*: &nbsp;🍀 One LLM-oriented paper submitted to NSDI 2024 (CCF-A, one of the best conference on network and system related topics).
 - *2023.08*: &nbsp;🎉 VRifle (the 1st completely ultrasonic adversarial perturbation attack) is accepted by NDSS 2024.
 - *2023.08*: &nbsp;🔥 I attend USENIX Security 2023 Symposium and present our work NormDetect in person. Cool! Nice to meet so many rising stars in CA, USA.
