@@ -24,10 +24,10 @@ I am currently a final-year Ph.D. candidate at Ubiqutous System Security Lab (US
 
 
 <!-- My research interest covers a wide range, including Sensor and CPS Security, Audio Security, AI Security, as well as Speech Signal Processing. If you are seeking any form of <b>academic cooperation</b>, please feel free to email me at lxfmakeit(at)zju(dot)edu(dot)cn. -->
-My research is broadly in the field of AI and CPS security, with a particular interest in safeguarding user privacy, intelligent audio/vision systems, and generative models against various forms of leaks and attacks.
+My research is broadly in the field of AI and IoT security, with a particular interest in safeguarding user privacy, intelligent audio/vision systems, and generative models against various forms of leaks and attacks.
 I work toward developing dependable and secure machine learning (ML) systems and am committed to making their applications for deployment in critical infrastructures and consumer electronics. In user-oriented contexts, my investigations also encompass the interplay between protecting user privacy and enhancing the usability of machine learning systems. In model-oriented scenarios, such as the use of generative models in model-as-a-service (MaaS) applications, my work involves regulating their behavior to align with societal responsibilities.
 
-If you are seeking any form of <b>academic cooperation</b>, please feel free to email me at lxfmakeit(at)zju(dot)edu(dot)cn.
+If you are seeking any form of <b>academic cooperation</b>, please feel free to email me at xinfengli(at)zju(dot)edu(dot)cn.
 
 I have published 10+ papers at the top-tier international security/AI/mobile sensing conferences and journals, such as USENIX Security, NDSS, TDSC, IoT-J, and ACM MM.
 
@@ -35,7 +35,7 @@ I have published 10+ papers at the top-tier international security/AI/mobile sen
 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉 I am so excited to be awarded the NDSS 2024 Student Travel Grant.
+<!-- - *2024.02*: &nbsp;🎉 I am so excited to be awarded the NDSS 2024 Student Travel Grant. -->
 - *2023.12*: &nbsp;🔥 One Vision-Language Model Security paper submitted to S&P (Oakland) 2024 (Core A*, Big4, CCF-A).
 - *2023.09*: &nbsp;🍀 One LLM-oriented paper submitted to NSDI 2024 (CCF-A, one of the best conference on network and system related topics).
 - *2023.08*: &nbsp;🎉 VRifle (the 1st completely ultrasonic adversarial perturbation attack) is accepted by NDSS 2024.
