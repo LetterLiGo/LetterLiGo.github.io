@@ -35,6 +35,7 @@ I have published 10+ papers at the top-tier international security/AI/mobile sen
 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉 I am so excited to be awarded the NDSS 2024 Student Travel Grant.
 - *2023.12*: &nbsp;🔥 One Vision-Language Model Security paper submitted to S&P (Oakland) 2024 (Core A*, Big4, CCF-A).
 - *2023.09*: &nbsp;🍀 One LLM-oriented paper submitted to NSDI 2024 (CCF-A, one of the best conference on network and system related topics).
 - *2023.08*: &nbsp;🎉 VRifle (the 1st completely ultrasonic adversarial perturbation attack) is accepted by NDSS 2024.
@@ -83,7 +84,7 @@ In Proceedings of 32nd **USENIX Security 2023** (CCF-A, Big4) [[Google Site](htt
 - [Learning Normality is Enough: A Software-based Mitigation against the Inaudible Voice Attacks](https://www.usenix.org/conference/usenixsecurity23/presentation/li-xinfeng), **Xinfeng Li**, Xiaoyu Ji, Chen Yan, Chaohao Li, Yichen Li, Zhenning Zhang, Wenyuan Xu.,
 In Proceedings of 32nd **USENIX Security 2023** (CCF-A, Big4) [[Google Site](https://sites.google.com/view/normdetect)]
 
-- [A Software-based Mitigation against Inaudible Voice Attacks with Channel Awareness and Normality Guidance](), **Xinfeng Li**, Chen Yan, Xiaoyu Ji, Wenyuan Xu. Transcations on Dependable and Secure Computing, **TDSC** (CCF-A, in submission)
+<!-- - [A Software-based Mitigation against Inaudible Voice Attacks with Channel Awareness and Normality Guidance](), **Xinfeng Li**, Chen Yan, Xiaoyu Ji, Wenyuan Xu. Transcations on Dependable and Secure Computing, **TDSC** (CCF-A, in submission) -->
 
 - [UltraBD: Backdoor Attack against Automatic Speaker Verification Systems via Adversarial Ultrasound](https://ieeexplore.ieee.org/document/10078010), **Junning Ze**, **Xinfeng Li**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu., In the proceedings of 2022 IEEE 28th International Conference on Parallel and Distributed Systems **ICPADS 2022** (CCF-C) [[Extended Version](https://arxiv.org/abs/2306.16022)]
 
@@ -91,9 +92,9 @@ In Proceedings of 32nd **USENIX Security 2023** (CCF-A, Big4) [[Google Site](htt
 
 - [EarArray: Defending against DolphinAttack via Acoustic Attenuation](https://www.ndss-symposium.org/ndss-paper/eararray-defending-against-dolphinattack-via-acoustic-attenuation/), Guoming Zhang, Xiaoyu Ji, **Xinfeng Li**, Gang Qu, Wenyuan Xu., In Proceedings of Network and Distributed System Security Symposium, **NDSS 2021** (CCF-A, Big4) 
 
-- [Detecting Inaudible Voice Commands via Acoustic Attenuation by Multi-channel Microphones](), Guoming Zhang, Xiaoyu Ji, **Xinfeng Li**, Gang Qu, Xiuzhen Cheng, Wenyuan Xu. Transcations on Dependable and Secure Computing, **TDSC** (CCF-A)
+- [Detecting Inaudible Voice Commands via Acoustic Attenuation by Multi-channel Microphones](), Guoming Zhang, Xiaoyu Ji, **Xinfeng Li**, Gang Qu, Xiuzhen Cheng, Wenyuan Xu. Transcations on Dependable and Secure Computing, **TDSC 2023** (CCF-A)
 
-- [Scoring Metrics of Assessing Voiceprint Distinctiveness based on Speech Content and Rate](), Ruiwen He, Yushi Cheng, Junning Ze, **Xinfeng Li**, Xiaoyu Ji, Wenyuan Xu. Transcations on Dependable and Secure Computing, **TDSC** (CCF-A)
+- [Scoring Metrics of Assessing Voiceprint Distinctiveness based on Speech Content and Rate](), Ruiwen He, Yushi Cheng, Junning Ze, **Xinfeng Li**, Xiaoyu Ji, Wenyuan Xu. Transcations on Dependable and Secure Computing, **TDSC 2024** (CCF-A)
 
 
 
@@ -104,6 +105,7 @@ A Software-based Mitigation against Inaudible Voice Attacks with Channel Awarene
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- NDSS 2024 Student Travel Grant (2024)
 - Merit Graduate Student Scholarship & Excellent Graduate Student Scholarship & Excellent Graduate Student Cadre (Zhejiang University, 2020-2023)  
 - "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition: First prize (Zhejiang University, 2021)  
 - Outstanding Undergraduates at Edison Honor Class, (Zhejiang University 2019)  
@@ -118,7 +120,8 @@ A Software-based Mitigation against Inaudible Voice Attacks with Channel Awarene
 - *2012.09 - 2015.06*, Yuyao High School, Ningbo.
 
 # 💬 Invited Talks
-- *2023.08*, USENIX Security Symposium 2023 at Anaheim, California, USA.  \| [\[slides\]](https://www.usenix.org/conference/usenixsecurity23/presentation/li-xinfeng)
+- *2023.08*, USENIX Security Symposium 2023 at Anaheim, California, USA.  \| [\[Slides\]](https://www.usenix.org/conference/usenixsecurity23/presentation/li-xinfeng)
+- *2024.02*, NDSS 2024 at San Diego, California, USA.  \| [\[Paper\]](https://www.ndss-symposium.org/ndss-paper/inaudible-adversarial-perturbation-manipulating-the-recognition-of-user-speech-in-real-time/)  \| [\[Code\]](https://github.com/LetterLiGo/Inaudible-Adversarial-Perturbation-Vrifle) \| [\[Video\]](https://www.youtube.com/watch?v=VD_KAU-s1oA) 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
