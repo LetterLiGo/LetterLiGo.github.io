@@ -27,10 +27,10 @@ author:
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=JC_UWyoAAAAJ # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "lxfmakeit@foxmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Xinfeng-Li-7"
-  uri              :
+  researchgate     : "https://www.researchgate.net/profile/Xinfeng-Li-7"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
