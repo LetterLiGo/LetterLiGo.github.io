@@ -29,7 +29,7 @@ I work toward developing dependable and secure machine learning (ML) systems and
 
 If you are seeking any form of <b>academic cooperation</b>, please feel free to email me at xinfengli(at)zju(dot)edu(dot)cn.
 
-I have published 10+ papers at the top-tier international security/AI/mobile sensing conferences and journals, such as USENIX Security, NDSS, TDSC, IoT-J, and ACM MM.
+I have published 10+ papers at the top-tier international security/AI/mobile sensing conferences and journals, such as USENIX Security, CCS, NDSS, TDSC, IoT-J, and ACM MM.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -49,7 +49,7 @@ I have published 10+ papers at the top-tier international security/AI/mobile sen
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='./images/SafeEar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CCS 2024</div><img src='./images/SafeEar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SafeEar: Content Privacy-Preserving Audio Deepfake Detection](https://letterligo.github.io/SafeEar/) **Xinfeng Li**, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu., To appear in the Proceeding Proceedings of ACM Conference on Computer and Communications Security, **CCS 2024** (CCF-A, Big4) [[Project Page](https://letterligo.github.io/SafeEar/)]
