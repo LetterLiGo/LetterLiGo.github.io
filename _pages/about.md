@@ -49,16 +49,16 @@ I have published 10+ papers at the top-tier international security/AI/mobile sen
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='images/Vrifle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='./images/SafeEar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SafeEar: Content Privacy-Preserving Audio Deepfake Detection] **Xinfeng Li**, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu., To appear in the Proceeding Proceedings of ACM Conference on Computer and Communications Security, **CCS 2024** (CCF-A, Big4) [[Project Page](https://letterligo.github.io/SafeEar/)]
 
-To our knowledge, this is the 1st content privacy-preserving audio deepfake detection framework. Since audio deepfakes and user privacy concerns have been increasingly significant societal issues, we demonstrate how to achieve reliable deepfake detection while preventing both machine and human adversaries from eavesdropping on sensitive user speech content. To facilitate future research, we also develop a comprehensive multilingual deepfake datasets (more than 1,500,000 genuine & deepfake audio samples) using advanced TTS/VC techniques.
+To our knowledge, SafeEar is the first content privacy-preserving audio deepfake detection framework. Since audio deepfakes and user privacy concerns have been increasingly significant societal issues, we demonstrate how to achieve reliable deepfake detection while preventing both machine and human adversaries from eavesdropping on sensitive user speech content. To facilitate future research, we also develop a comprehensive multilingual deepfake datasets (more than 1,500,000 genuine & deepfake audio samples) using advanced TTS/VC techniques.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='./images/SafeEar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='./images/Vrifle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Inaudible Adversarial Perturbation: Manipulating the Recognition of User Speech in Real Time](https://arxiv.org/abs/2308.01040), **Xinfeng Li**, Chen Yan, Xuancun Lu, Xiaoyu Ji, Wenyuan Xu., In Proceedings of Network and Distributed System Security Symposium, **NDSS 2024** (CCF-A, Big4) [[Google Site](https://sites.google.com/view/vrifle)], [[Website](https://zjushine.github.io/VRIFLE/)], [[Code](https://github.com/LetterLiGo/Adversarial_Audio_Attack-VRifle)]
