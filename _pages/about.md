@@ -35,6 +35,7 @@ I have published 10+ papers at the top-tier international security/AI/mobile sen
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🔥 **SafeGen** was accepted by CCS 2024! As T2I technologies advance, their misuse to generate sexually explicit content has become a major concern. SafeGen effectively mitigates this by removing any explicit visual representations from the model, making it safe regardless of the adversarial text input, outperforming eight other protection approaches. SafeGen adjusts the model's visual self-attention layers to ensure that the high-quality production of benign images is not compromised. More information are on our [code](https://github.com/LetterLiGo/SafeGen_CCS2024).
 - *2024.05*: &nbsp;🔥 **SafeEar** got accepted by CCS 2024! To our knowledge, this is the 1st content privacy-preserving audio deepfake detection framework. Since audio deepfakes and user privacy concerns have been increasingly significant societal issues, we demonstrate how to achieve reliable deepfake detection while preventing both machine and human adversaries from eavesdropping on sensitive user speech content. To facilitate future research, we also develop a comprehensive multilingual deepfake datasets (more than 1,500,000 genuine & deepfake audio samples) using advanced TTS/VC techniques. Please check out our [demo page](https://letterligo.github.io/SafeEar/).
 - *2024.02*: &nbsp;🎉 I am so excited to be awarded the NDSS 2024 Student Grant.
 - *2023.12*: &nbsp;🔥 One Vision-Language Model Security paper submitted to S&P (Oakland) 2024 (Core A*, Big4, CCF-A).
@@ -49,10 +50,19 @@ I have published 10+ papers at the top-tier international security/AI/mobile sen
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CCS 2024</div><img src='./images/SafeGen.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models](https://arxiv.org/abs/2404.06666) **Xinfeng Li**, Yuchen Yang, Jiangyi Deng, Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu. To appear in the Proceeding Proceedings of ACM Conference on Computer and Communications Security, **CCS 2024** (CCF-A, Big4) [[Code](https://github.com/LetterLiGo/SafeGen_CCS2024)]
+
+As T2I technologies advance, their misuse to generate sexually explicit content has become a major concern. SafeGen effectively mitigates this by removing any explicit visual representations from the model, making it safe regardless of the adversarial text input, outperforming eight other protection approaches. SafeGen adjusts the model's visual self-attention layers to ensure that the high-quality production of benign images is not compromised. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CCS 2024</div><img src='./images/SafeEar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SafeEar: Content Privacy-Preserving Audio Deepfake Detection](https://letterligo.github.io/SafeEar/) **Xinfeng Li**, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu., To appear in the Proceeding Proceedings of ACM Conference on Computer and Communications Security, **CCS 2024** (CCF-A, Big4) [[Project Page](https://letterligo.github.io/SafeEar/)]
+[SafeEar: Content Privacy-Preserving Audio Deepfake Detection](https://letterligo.github.io/SafeEar/) **Xinfeng Li**, Kai Li, Yifan Zheng, Chen Yan, Xiaoyu Ji, Wenyuan Xu. To appear in the Proceeding Proceedings of ACM Conference on Computer and Communications Security, **CCS 2024** (CCF-A, Big4) [[Project Page](https://letterligo.github.io/SafeEar/)]
 
 To our knowledge, SafeEar is the first content privacy-preserving audio deepfake detection framework. Since audio deepfakes and user privacy concerns have been increasingly significant societal issues, we demonstrate how to achieve reliable deepfake detection while preventing both machine and human adversaries from eavesdropping on sensitive user speech content. To facilitate future research, we also develop a comprehensive multilingual deepfake datasets (more than 1,500,000 genuine & deepfake audio samples) using advanced TTS/VC techniques.
 </div>
