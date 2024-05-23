@@ -95,7 +95,7 @@ In Proceedings of 32nd **USENIX Security 2023** (CCF-A, Big4) [[Google Site](htt
 
 - [Inaudible Adversarial Perturbation: Manipulating the Recognition of User Speech in Real Time](https://arxiv.org/abs/2308.01040), **Xinfeng Li**, Chen Yan, Xuancun Lu, Xiaoyu Ji, Wenyuan Xu., In Proceedings of Network and Distributed System Security Symposium, **NDSS 2024** (CCF-A, Big4) [[Google Site](https://sites.google.com/view/vrifle)], [[Website](https://zjushine.github.io/VRIFLE/)], [[Code](https://github.com/LetterLiGo/Adversarial_Audio_Attack-VRifle)]
 
-- [Detecting Inaudible Voice Commands via Acoustic Attenuation by Multi-channel Microphones](), Guoming Zhang, Xiaoyu Ji, **Xinfeng Li**, Gang Qu, Xiuzhen Cheng, Wenyuan Xu. Transcations on Dependable and Secure Computing, **TDSC 2023** (CCF-A)
+- [Detecting Inaudible Voice Commands via Acoustic Attenuation by Multi-channel Microphones](), Xiaoyu Ji, Guoming Zhang, **Xinfeng Li**, Gang Qu, Xiuzhen Cheng, Wenyuan Xu. Transcations on Dependable and Secure Computing, **TDSC 2023** (CCF-A)
 
 - [The Silent Manipulator: Practical and Inaudible Backdoor Attack against Speech Recognition Systems](https://dl.acm.org/doi/10.1145/3581783.3613843), Zhicong Zheng, **Xinfeng Li**, Chen Yan, Xiaoyu Ji, Wenyuan Xu., ACM multimedia **MM 2023** (CCF-A)
 
