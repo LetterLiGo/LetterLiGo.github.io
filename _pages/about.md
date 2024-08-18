@@ -133,7 +133,7 @@ A Software-based Mitigation against Inaudible Voice Attacks with Channel Awarene
 
 
 # 📖 Educations
-- *2019.06 - 2024.06 (now)*, PhD, USSLAB, Zhejiang University, Hangzhou. 
+- *2019.06 - Present*, PhD, USSLAB, Zhejiang University, Hangzhou. 
 - *2015.09 - 2019.06*, Undergraduate, Electrical Engineering College, Zhejiang Univeristy, Hangzhou.
 - *2012.09 - 2015.06*, Yuyao High School, Ningbo.
 
