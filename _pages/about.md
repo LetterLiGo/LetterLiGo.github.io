@@ -148,4 +148,4 @@ A Software-based Mitigation against Inaudible Voice Attacks with Channel Awarene
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 🗺️ Visitor Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5kfn1jf6u04&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5z9wbgqmpnh&amp;m=0&amp;h=128&amp;c=ff0000&amp;r=0" async="async"></script>
