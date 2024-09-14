@@ -1,6 +1,6 @@
 # 📝 Selected Publications
 
-> (<sup>*</sup> Equal Contribution)
+> (*: Equal Contribution)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='./images/Raconteur.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
