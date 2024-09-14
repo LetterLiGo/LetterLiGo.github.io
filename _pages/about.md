@@ -35,6 +35,8 @@ I have published 10+ papers at the top-tier international security/AI/mobile sen
 
 
 # 🔥 News
+- *2024.08*: &nbsp;📝 **Raconteur** was accepted by NDSS 2025! Raconteur is the first tool using Large Language Models (LLMs) to explain shell commands clearly. It provides detailed insights into command functions and purposes, aligning with MITRE ATT&CK standards. Equipped with professional cybersecurity knowledge, Raconteur delivers accurate explanations. A documentation retriever helps understand new commands. Tested extensively, Raconteur offers unique insights, helping security analysts better understand command intentions. [website](https://raconteur-ndss.github.io/).
+- *2024.08*: &nbsp;📝 **Legilimens** was accepted by CCS 2024! A new SOTA of the LLM unsafe moderation technique, with significantly improvement in efficiency. Congratualtions to Jialin and Dr. Deng.
 - *2024.05*: &nbsp;📝 **SafeGen** was accepted by CCS 2024! As T2I technologies advance, their misuse to generate sexually explicit content has become a major concern. SafeGen effectively mitigates this by removing any explicit visual representations from the model, making it safe regardless of the adversarial text input, outperforming eight other protection approaches. SafeGen adjusts the model's visual self-attention layers to ensure that the high-quality production of benign images is not compromised. More information are on our [code](https://github.com/LetterLiGo/SafeGen_CCS2024).
 - *2024.05*: &nbsp;🔥 **SafeEar** got accepted by CCS 2024! To our knowledge, this is the 1st content privacy-preserving audio deepfake detection framework. Since audio deepfakes and user privacy concerns have been increasingly significant societal issues, we demonstrate how to achieve reliable deepfake detection while preventing both machine and human adversaries from eavesdropping on sensitive user speech content. To facilitate future research, we also develop a comprehensive multilingual deepfake datasets (more than 1,500,000 genuine & deepfake audio samples) using advanced TTS/VC techniques. Please check out our [demo page](https://letterligo.github.io/SafeEar/).
 <!-- - *2024.02*: &nbsp;🎉 I am so excited to be awarded the NDSS 2024 Student Grant. -->
@@ -48,7 +50,16 @@ I have published 10+ papers at the top-tier international security/AI/mobile sen
 - *2021.07*: &nbsp;🎉 **PROLE Score** is accepted by USENIX Security 2022! "OK Siri" or "Hey Google"? We conduct an extensive voiceprint security measurement. Our findings and designed metrics shall aid manufactures and users to DIY highly secure voiceprint phrases.
 - *2020.12*: &nbsp;🔥 **EarArray** is accepted by NDSS 2021! We uncover the inherent physical properties of inaudible attack, i.e. ultrasound field distributions, and redesign microphone arrays for accurate detection and attack localization.
 
-# 📝 Selected Publications 
+# 📝 Selected Publications (*: Equal Contribution)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2025</div><img src='./images/Raconteur.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Raconteur : A Knowledgeable, Insightful, and Portable LLM-Powered Shell Command Explainer](https://arxiv.org/abs/2409.02074) Jiangyi Deng✲, **Xinfeng Li✲**, Yanjiao Chen, Yijie Bai, Haiqin Weng, Yan Liu, Tao Wei, Wenyuan Xu. In Proceedings of Network and Distributed System Security Symposium, **NDSS 2025** (CCF-A, Big4) [[Website](https://raconteur-ndss.github.io/)]
+
+Raconteur is the first tool using Large Language Models (LLMs) to explain shell commands clearly. It provides detailed insights into command functions and purposes, aligning with MITRE ATT&CK standards. Equipped with professional cybersecurity knowledge, Raconteur delivers accurate explanations. A documentation retriever helps understand new commands. Tested extensively, Raconteur offers unique insights, helping security analysts better understand command intentions.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CCS 2024</div><img src='./images/SafeGen.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -89,7 +100,8 @@ In Proceedings of 32nd **USENIX Security 2023** (CCF-A, Big4) [[Google Site](htt
 - Universal detection performance demonstrated on a wide range of devices.
 </div>
 </div>
-<!-- - [CommandSense: Automating Shell Log Auditing with Proprietary Command Explanation System](), USENIX Symposium on Networked Systems Design and Implementation, **NSDI** (CCF-A, Top 1-tier System Conference, in submission) -->
+
+- [Legilimens: Practical and Unified Content Moderation for Large Language Model Services](), Jialin Wu, Jiangyi Deng, Shengyuan Pang, Yanjiao Chen, Jiayang Xu, **Xinfeng Li**, Wenyuan Xu. **ACM CCS 2024** (CCF-A, Big4) [[code](https://github.com/lin000001/Legilimens)]
 
 - [Scoring Metrics of Assessing Voiceprint Distinctiveness based on Speech Content and Rate](), Ruiwen He, Yushi Cheng, Junning Ze, **Xinfeng Li**, Xiaoyu Ji, Wenyuan Xu. Transcations on Dependable and Secure Computing, **TDSC 2024** (CCF-A)
 
@@ -123,6 +135,7 @@ A Software-based Mitigation against Inaudible Voice Attacks with Channel Awarene
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- CCS 2024 Student Grant (2024)
 - NDSS 2024 Student Grant (2024)
 - Merit Graduate Student Scholarship & Excellent Graduate Student Scholarship & Excellent Graduate Student Cadre (Zhejiang University, 2020-2023)  
 - "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition: First prize (Zhejiang University, 2021)  
