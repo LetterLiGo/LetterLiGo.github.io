@@ -1,4 +1,4 @@
-I will join Indiana University Bloomington as a postdoctoral fellow, where I will be working under the supervision of <a href="https://scholar.google.com/citations?user=pONu-5EAAAAJ&hl=en">Prof. XiaoFeng Wang</a> and <a href="https://scholar.google.com/citations?user=4Hywr5UAAAAJ&hl=en">Prof. Haixu Tang</a>. I completed my Ph.D. at the USSLAB@Zhejiang University in 2024, co-supervised by <a href='https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ'>Prof. Wenyuan Xu</a>, <a href="https://sites.google.com/site/xiaoyuijh">Prof. Xiaoyu Ji</a>, and <a href="https://cyansec.com/">Prof. Chen Yan</a>. I obtained my B.Eng also from Zhejiang University in 2019.
+I will join Indiana University as a postdoctoral fellow, where I will be working with <a href="https://scholar.google.com/citations?user=pONu-5EAAAAJ&hl=en">Prof. XiaoFeng Wang</a> and <a href="https://scholar.google.com/citations?user=4Hywr5UAAAAJ&hl=en">Prof. Haixu Tang</a>. I completed my Ph.D. at the USSLAB@Zhejiang University in 2024, co-supervised by <a href='https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ'>Prof. Wenyuan Xu</a>, <a href="https://sites.google.com/site/xiaoyuijh">Prof. Xiaoyu Ji</a>, and <a href="https://cyansec.com/">Prof. Chen Yan</a>. I obtained my B.Eng also from Zhejiang University in 2019.
  <!-- <a href='../docs/Xinfeng_Li_CV.pdf'>My Resume</a> -->
 
 
@@ -9,7 +9,7 @@ I will join Indiana University Bloomington as a postdoctoral fellow, where I wil
 My research is broadly in the field of AI and IoT security, with a particular interest in safeguarding user privacy, intelligent audio/vision systems, and generative models against various forms of leaks and attacks.
 I work toward developing dependable and secure machine learning (ML) systems and am committed to making their applications for deployment in critical infrastructures and consumer electronics. In user-oriented contexts, my investigations also encompass the interplay between protecting user privacy and enhancing the usability of machine learning systems. In model-oriented scenarios, such as the use of generative models in model-as-a-service (MaaS) applications, my work involves regulating their behavior to align with societal responsibilities.
 
-If you are seeking any form of <b>academic cooperation</b>, please feel free to email me at xinfengli(at)zju(dot)edu(dot)cn.
+If you are seeking any form of <b>academic cooperation</b>, please feel free to email me at xinfengli@zju.edu.cn.
 
 I have published 10+ papers at the top-tier international security/AI/mobile sensing conferences and journals, such as USENIX Security, ACM CCS, NDSS, TDSC, IoT-J, and ACM MM.
 
