@@ -1,5 +1,6 @@
-I am currently a final-year Ph.D. candidate at Ubiqutous System Security Lab (USSLAB), Zhejiang University. I am co-supervised by <a href='https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ'>Prof. Wenyuan Xu</a>, <a href="https://sites.google.com/site/xiaoyuijh">Prof. Xiaoyu Ji</a>, and <a href="https://cyansec.com/">Prof. Chen Yan</a>.
+I will join Indiana University Bloomington as a postdoctoral fellow, where I will be working under the supervision of <a href="https://scholar.google.com/citations?user=pONu-5EAAAAJ&hl=en">Prof. XiaoFeng Wang</a> and <a href="https://scholar.google.com/citations?user=4Hywr5UAAAAJ&hl=en">Prof. Haixu Tang</a>. I completed my Ph.D. at the USSLAB@Zhejiang University in 2024, co-supervised by <a href='https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ'>Prof. Wenyuan Xu</a>, <a href="https://sites.google.com/site/xiaoyuijh">Prof. Xiaoyu Ji</a>, and <a href="https://cyansec.com/">Prof. Chen Yan</a>. I obtained my B.Eng also from Zhejiang University in 2019.
  <!-- <a href='../docs/Xinfeng_Li_CV.pdf'>My Resume</a> -->
+
 
 <!-- **I am expected to graduate in June 2024 and I'm on the job market (acadamia/industry). Consider dropping me an email if you have any suitable opportunities.** -->
 
