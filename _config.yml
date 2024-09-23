@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Xinfeng Li's Homepage"
-description              : "Postdoctoral Fellow@IU. Focusing on AI Security & Privacy, AI for Security, and IoT Security."
+# description              : "Postdoctoral Fellow@IU. Focusing on AI Security & Privacy, AI for Security, and IoT Security."
+description              : Focusing on AI Security & Privacy, AI for Security, and IoT Security."
 repository               : "LetterLiGo/LetterLiGo.github.io"
 google_scholar_stats_use_cdn : true
 
