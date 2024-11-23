@@ -51,6 +51,8 @@ In Proceedings of 32nd **USENIX Security 2023** (CCF-A, Big4) [[Google Site](htt
 </div>
 </div>
 
+- [LightAntenna: Characterizing the Limits of Fluorescent Lamp-Induced Electromagnetic Interference](), Fengchen Yang, Wenze Cui, **Xinfeng Li**, Chen Yan, Xiaoyu Ji, Wenyuan Xu. **NDSS 2025** (CCF-A, Big4)
+
 - [Legilimens: Practical and Unified Content Moderation for Large Language Model Services](), Jialin Wu, Jiangyi Deng, Shengyuan Pang, Yanjiao Chen, Jiayang Xu, **Xinfeng Li**, Wenyuan Xu. **ACM CCS 2024** (CCF-A, Big4) [[Code](https://github.com/lin000001/Legilimens)]
 
 - [Scoring Metrics of Assessing Voiceprint Distinctiveness based on Speech Content and Rate](), Ruiwen He, Yushi Cheng, Junning Ze, **Xinfeng Li**, Xiaoyu Ji, Wenyuan Xu. Transcations on Dependable and Secure Computing, **TDSC 2024** (CCF-A)

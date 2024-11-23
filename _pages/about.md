@@ -28,8 +28,6 @@ redirect_from:
 {% include_relative includes/others.md %}
 
 # 🗺️ Visitor Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5z8wae07som&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5z8wae07som&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script> -->
 
-<div style="display:none;">
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=3vCdlQ5nZ746LFembNtGDtjeUj5yZCvzbpyNXyAc-zI'></script>
-</div>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=3vCdlQ5nZ746LFembNtGDtjeUj5yZCvzbpyNXyAc-zI'></script>
