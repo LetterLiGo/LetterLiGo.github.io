@@ -5,7 +5,7 @@ I completed my Ph.D. at the USSLAB@Zhejiang University in 2024, co-supervised by
 <!-- **I am expected to graduate in June 2024 and I'm on the job market (acadamia/industry). Consider dropping me an email if you have any suitable opportunities.** -->
 
 
-My research is broadly in the field of (1) AI security \& privacy with a special focus on the security and privacy issues associated with multimodal AI security and privacy, and (2) AI for system security, particularly for addressing vulnerabilities in critical IoT, communication and software systems. 
+My research is broadly in the field of (1) AI security & privacy with a special focus on the security and privacy issues associated with multimodal AI security and privacy, and (2) AI for system security, particularly for addressing vulnerabilities in critical IoT, communication and software systems. 
 
 In AI-oriented contexts, I focus on developing trustworthy intelligent audio and vision models, safeguarding user privacy, and fortifying generative models against various leaks and attacks. Also, I regulate AI behavior to ensure alignment with societal responsibilities, especially in the context of large language models, such as Stable Diffusion and GPT-4.
 
