@@ -4,8 +4,9 @@
 - *2012.09 - 2015.06*, Yuyao High School, Ningbo.
 
 # 💬 Invited Talks
-- *2023.08*, USENIX Security Symposium 2023 at Anaheim, California, USA.  \| [\[Slides\]](https://www.usenix.org/conference/usenixsecurity23/presentation/li-xinfeng)
+- *2024.10*, ACM CCS 2024 at Salt Lake City, USA.  \| [\[Slides\]](https://www.usenix.org/conference/usenixsecurity23/presentation/li-xinfeng)
 - *2024.02*, NDSS 2024 at San Diego, California, USA.  \| [\[Paper\]](https://www.ndss-symposium.org/ndss-paper/inaudible-adversarial-perturbation-manipulating-the-recognition-of-user-speech-in-real-time/)  \| [\[Code\]](https://github.com/LetterLiGo/Inaudible-Adversarial-Perturbation-Vrifle) \| [\[Video\]](https://www.youtube.com/watch?v=VD_KAU-s1oA) 
+- *2023.08*, USENIX Security Symposium 2023 at Anaheim, California, USA.  \| [\[Slides\]](https://www.usenix.org/conference/usenixsecurity23/presentation/li-xinfeng)
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
