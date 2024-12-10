@@ -14,7 +14,7 @@ Raconteur is the first tool using Large Language Models (LLMs) to explain shell 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CCS 2024</div><img src='./images/SafeGen.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models](https://arxiv.org/abs/2404.06666) **Xinfeng Li**, Yuchen Yang, Jiangyi Deng, Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu. To appear in Proceedings of ACM Conference on Computer and Communications Security, **CCS 2024** (CCF-A, Big4) [[Code](https://github.com/LetterLiGo/SafeGen_CCS2024)][[Pretrained Weights](https://huggingface.co/LetterJohn/SafeGen-Pretrained-Weights)]
+[SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models](https://arxiv.org/abs/2404.06666) **Xinfeng Li**, Yuchen Yang, Jiangyi Deng, Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu. To appear in Proceedings of ACM Conference on Computer and Communications Security, **CCS 2024** (CCF-A, Big4) [[Code](https://github.com/LetterLiGo/SafeGen_CCS2024)][[Pretrained Weights](https://huggingface.co/LetterJohn/SafeGen-Pretrained-Weights)][[Paper](https://letterligo.github.io/paper/SafeGen_v1.pdf)]
 
 As T2I technologies advance, their misuse to generate sexually explicit content has become a major concern. SafeGen effectively mitigates this by removing any explicit visual representations from the model, making it safe regardless of the adversarial text input, outperforming eight other protection approaches. SafeGen adjusts the model's visual self-attention layers to ensure that the high-quality production of benign images is not compromised. 
 </div>
