@@ -24,12 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinfeng Li"
   avatar           : "images/个人.jpg"
-  bio              : "USSLAB, Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "Indiana University"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=JC_UWyoAAAAJ # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "lxfmakeit@foxmail.com"
+  email            : "lxfmakeit@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Xinfeng-Li-7"
   uri              : 
   bitbucket        :

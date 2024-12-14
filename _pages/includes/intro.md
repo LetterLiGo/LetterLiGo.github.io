@@ -1,5 +1,4 @@
-<!-- I will join Indiana University as a postdoctoral fellow, where I will be working with <a href="https://scholar.google.com/citations?user=pONu-5EAAAAJ&hl=en">Prof. XiaoFeng Wang</a> and <a href="https://scholar.google.com/citations?user=4Hywr5UAAAAJ&hl=en">Prof. Haixu Tang</a>.  -->
-I completed my Ph.D. at the USSLAB@Zhejiang University in 2024, co-supervised by <a href='https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ'>Prof. Wenyuan Xu</a>, <a href="https://sites.google.com/site/xiaoyuijh">Prof. Xiaoyu Ji</a>, and <a href="https://cyansec.com/">Prof. Chen Yan</a>. I obtained my B.Eng also from Zhejiang University in 2019.
+I am currently a Postdoctoral Fellow at Indiana University, working with <a href="https://scholar.google.com/citations?user=pONu-5EAAAAJ&hl=en">Prof. XiaoFeng Wang</a>. In 2024, I completed my Ph.D. with honor at the Zhejiang University, co-supervised by Prof. Wenyuan Xu, Prof. Xiaoyu Ji, and Prof. Chen Yan. Previously, I obtained my B.Eng with honor also from Zhejiang University in 2019.
 
 
 <!-- **I am expected to graduate in June 2024 and I'm on the job market (acadamia/industry). Consider dropping me an email if you have any suitable opportunities.** -->
