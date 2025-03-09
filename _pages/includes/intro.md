@@ -1,4 +1,4 @@
-I am currently a Research Fellow at NTU, working with <a href="https://scholar.google.com/citations?user=pONu-5EAAAAJ&hl=en">Prof. XiaoFeng Wang</a>, <a href="https://weidong.hk/">Prof. Wei Dong</a>, and <a href="https://personal.ntu.edu.sg/yangliu/">Prof. Yang Liu</a>>. In 2024, I completed my Ph.D. with honor at the Zhejiang University, co-supervised by Prof. Wenyuan Xu, Prof. Xiaoyu Ji, and Prof. Chen Yan. Previously, I obtained my B.Eng with honor also from Zhejiang University in 2019.
+I am currently a Research Fellow at NTU, working with <a href="https://scholar.google.com/citations?user=pONu-5EAAAAJ&hl=en">Prof. XiaoFeng Wang</a>, <a href="https://weidong.hk/">Prof. Wei Dong</a>, and <a href="https://personal.ntu.edu.sg/yangliu/">Prof. Yang Liu</a>. In 2024, I completed my Ph.D. with honor at the Zhejiang University, co-supervised by Prof. Wenyuan Xu, Prof. Xiaoyu Ji, and Prof. Chen Yan. Previously, I obtained my B.Eng with honor also from Zhejiang University in 2019.
 
 
 <!-- **I am expected to graduate in June 2024 and I'm on the job market (acadamia/industry). Consider dropping me an email if you have any suitable opportunities.** -->
